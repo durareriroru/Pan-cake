@@ -1,1 +1,1 @@
-# Pan-cake
+# Pancake
