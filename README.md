@@ -1,3 +1,3 @@
 # Pancake
 
-[Alt Txt](alt-txt/index.md)
+[Alt Txt](alt-text/index.md)
